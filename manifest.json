@@ -1,4 +1,36 @@
 {
   "version": 1,
-  "skins": []
+  "skins": [
+    {
+      "id": "clint-soul-vessel",
+      "heroName": "Clint",
+      "skinName": "Soul Vessel",
+      "archiveLabel": "Starlight New",
+      "resourceMetadata": {
+        "fileCount": 47,
+        "formats": {
+          "unity3d": 39,
+          "bnk": 8
+        },
+        "uncompressedBytes": 23357623,
+        "binariesPublished": false
+      }
+    },
+    {
+      "id": "ling-neobeast",
+      "heroName": "Ling",
+      "skinName": "NeoBeast",
+      "archiveLabel": "Special",
+      "resourceMetadata": {
+        "fileCount": 101,
+        "formats": {
+          "unity3d": 92,
+          "bnk": 8,
+          "xml": 1
+        },
+        "uncompressedBytes": 40929272,
+        "binariesPublished": false
+      }
+    }
+  ]
 }
